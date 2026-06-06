@@ -9,7 +9,7 @@ A mini AI customer support chat for **Spur Boutique**, a fictional e-commerce st
 | Service  | URL |
 | -------- | --- |
 | Frontend | https://assginment-jc5r.vercel.app |
-| Backend  | https://assignment-peach.vercel.app |
+| Backend  | https://assginment-peach.vercel.app/health |
 
 ## Prerequisites
 
