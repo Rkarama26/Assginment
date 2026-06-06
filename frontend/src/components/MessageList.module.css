@@ -1,0 +1,23 @@
+.list {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px;
+}
+
+.empty {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 32px 24px;
+  color: #64748b;
+}
+
+.emptyTitle {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #334155;
+  margin: 0 0 8px;
+}
